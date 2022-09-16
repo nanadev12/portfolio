@@ -1,0 +1,43 @@
+.footer{
+   width:100%;
+   padding: 2rem 0;
+   background-color: rgba(19, 19, 19, 0.8); 
+   display: flex;
+   justify-content: center; 
+
+   
+}
+
+
+.left{
+    /* height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30%; */
+   
+    
+ 
+}
+
+.email{ 
+    display: flex;
+    margin-bottom: 0.8rem;
+}
+
+.phone{ 
+    display: flex;
+    margin-bottom: 0.8rem;
+}
+
+
+.socials{ 
+    display: flex;
+    margin-bottom: 0.8rem;
+  
+}
+
+@media screen and (min-width:){
+    
+}
+
