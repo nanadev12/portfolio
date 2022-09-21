@@ -10,6 +10,7 @@ const ProjectCardData = [
 
     },
 
+    // updated link for pro2
     {
         imgSource: pro2,
         title: 'Crypto Tracker (RWD)',
