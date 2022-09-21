@@ -10,7 +10,7 @@ const WorkCard = (props) => {
                 <div className='pro-details'>
                     <p> {props.text}</p>
                     <div className='pro-btns'>
-                     <a href='https://www.linkedin.com/feed/' target='_blank' rel='noreferrer'>
+                     <a href={props.view} target='_blank' rel='noreferrer'>
                         <button  className='btn'>
                             View
                         </button>

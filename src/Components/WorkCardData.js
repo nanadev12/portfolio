@@ -4,9 +4,9 @@ import pro2 from '../Assets/pro 2.png'
 const ProjectCardData = [
     {
         imgSource: pro1,
-        title: 'Tours Website',
+        title: 'Tours Website (RWD)',
         text: 'description of project',
-        view: 'https://crypto-io-nanadev12.vercel.app/'
+        view: 'https://www.linkedin.com/feed/'
 
     },
 
@@ -21,7 +21,7 @@ const ProjectCardData = [
 
     {
         imgSource: pro1,
-        title: 'pending',
+        title: 'pending (RWD)',
         text: 'description of project',
         view: 'https://www.linkedin.com/in/nana-kumi-9936561a8'
 
