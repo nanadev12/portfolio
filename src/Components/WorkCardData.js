@@ -13,8 +13,8 @@ const ProjectCardData = [
     {
         imgSource: pro2,
         title: 'Crypto Tracker (RWD)',
-        text: 'Project was built using React, styling was done with Bootstrap and Data was obtained from coin gecko api',
-        view: 'https://www.linkedin.com/in/nana-kumi-9936561a8'
+        text: 'Project was built using React, Data was obtained from coin gecko api',
+        view: 'https://crypto-io-nanadev12.vercel.app/'
 
     },
 
