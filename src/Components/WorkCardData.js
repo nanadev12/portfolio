@@ -1,16 +1,7 @@
-import pro1 from '../Assets/project1.png'
+
 import pro2 from '../Assets/pro 2.png'
-
+import NA from '../Assets/project2.png'
 const ProjectCardData = [
-    {
-        imgSource: pro1,
-        title: 'Tours Website (RWD)',
-        text: 'description of project',
-        view: 'https://www.linkedin.com/feed/'
-
-    },
-
-    // updated link for pro2
     {
         imgSource: pro2,
         title: 'Crypto Tracker (RWD)',
@@ -19,9 +10,21 @@ const ProjectCardData = [
 
     },
 
+    
     {
-        imgSource: pro1,
-        title: 'pending (RWD)',
+        imgSource: NA,
+        title: 'Coming soon (RWD)',
+        text: 'description of project',
+        view: '/'
+
+    },
+
+    // updated link for pro 2
+   
+
+    {
+        imgSource: NA,
+        title: 'coming soon (RWD)',
         text: 'description of project',
         view: 'https://www.linkedin.com/in/nana-kumi-9936561a8'
 

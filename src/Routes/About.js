@@ -8,7 +8,7 @@ import HeroImg2 from '../Components/HeroImg2'
     <div> 
         <Navbar/>
         <HeroImg2 heading='About' text='Hello World. 
-        My name is Nana Kumi'/>
+        My name is Nana Kumi. I am a Fullstack developer with a preference in Frontend. I am skilled in developing products using technology such as HTML, CSS, JS, and modern frameworks'/>
        <Footer/>
     </div>
   )

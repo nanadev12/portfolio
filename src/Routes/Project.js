@@ -8,7 +8,7 @@ import Work from '../Components/Work'
   return (
     <div>
        <Navbar/>
-       <HeroImg2 heading='PROJECTS' text='Some of my most recent Responsive Web Design projects '/>
+       <HeroImg2 heading='PROJECTS' text='Some of my most recent Responsive Web Design projects. '/>
        <Work/>
        <Footer/>
     </div>
